@@ -4,6 +4,6 @@ The aim of this project was to explore, analyze and build a machine learning alg
 Since the Dataset is very large, it cannot be directly uploaded to github but you can download the required files from https://www.kaggle.com/wendykan/lending-club-loan-data?select=loan.csv
 
 The project contains the following file:
-  1.ProjectBook.ipynb
-  2.LCDataDictionary.xlsx
-  3.readme.txt
+    1.ProjectBook.ipynb
+    2.LCDataDictionary.xlsx
+    3.readme.txt
