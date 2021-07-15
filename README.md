@@ -8,3 +8,5 @@ The project contains the following file:
         1. ProjectBook.ipynb   
         2. LCDataDictionary.xlsx
         3. readme.txt
+        
+The Research paper for this project can be found at https://iopscience.iop.org/article/10.1088/1757-899X/1022/1/012042
